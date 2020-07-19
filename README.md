@@ -3,7 +3,7 @@
 Used Tensorflow 2.0
 
 ## You will find two implementations in script folder:
-* Trained own embedding matrix
+* Learning own embedding matrix
 * Used GloVe pre-trained embedding vectors
 
 Accuracy: 98.73%
