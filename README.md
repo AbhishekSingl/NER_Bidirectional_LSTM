@@ -7,3 +7,5 @@ Used Tensorflow 2.0
 * Used GloVe pre-trained embedding vectors
 
 Accuracy: 98.73%
+
+https://github.com/AbhishekSingl/NER_Bidirectional_LSTM/blob/master/results/NERUsingGloVe.png
