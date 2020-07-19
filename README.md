@@ -8,4 +8,5 @@ Used Tensorflow 2.0
 
 Accuracy: 98.73%
 
+Examples - prediction with confidence score:
 ![NER Results:](https://github.com/AbhishekSingl/NER_Bidirectional_LSTM/blob/master/results/NERUsingGloVe.png)
