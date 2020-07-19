@@ -8,4 +8,4 @@ Used Tensorflow 2.0
 
 Accuracy: 98.73%
 
-https://github.com/AbhishekSingl/NER_Bidirectional_LSTM/blob/master/results/NERUsingGloVe.png
+![NER Results:](https://github.com/AbhishekSingl/NER_Bidirectional_LSTM/blob/master/results/NERUsingGloVe.png)
